@@ -30,7 +30,7 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
+  "nickNameBot": "⎯ Need True Love 😘",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
@@ -45,8 +45,8 @@
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "100082395531611",
-      "100015168369582"
+      "61578522068895",
+      "61578522068895"
     ]
   },
   "adminBot": [
